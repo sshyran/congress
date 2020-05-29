@@ -1,0 +1,28 @@
+{
+    "posts" : [
+        {
+            "title" : "Manifest",
+            "date" : "21 May 2020",
+            "url" : "/manifest/",
+            "author" : "xhsipter, serejandmyself"
+        },
+        {
+            "title" : "Takeoff Proposal to Cosmos",
+            "date" : "21 May 2020",
+            "url" : "/cosmos-takeoff-proposal/",
+            "author" : "serejandmyself, xhsipter"
+        },
+        {
+            "title" : "Game of Links",
+            "date" : "13 May 2020",
+            "url" : "/game-of-links/",
+            "author" : "savetheales"
+        },
+        {
+            "title" : "How to donate ATOM to Cyber and what you get in return?",
+            "date" : "28 April 2020",
+            "url" : "/how-to-donate/",
+            "author" : "serejandmyself"
+        }
+        ]
+}
